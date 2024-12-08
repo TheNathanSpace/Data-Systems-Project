@@ -2,8 +2,8 @@ from suffix_tree.FileSuffixTree import FileSuffixTree
 from suffix_tree.MemorySuffixTree import MemorySuffixTree
 
 if __name__ == "__main__":
-    input_name = "banana"
-    search_string = "ana"
+    input_name = "short"
+    search_string = "GCAA"
 
     # Construct suffix tree
     input_file = f"data/target_sequences/{input_name}.txt"
