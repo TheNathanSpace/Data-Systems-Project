@@ -5,6 +5,6 @@
 ## A Suffix-Tree-Based Database for Sequence Alignment
 
 `mstrdb`, short for Mines Suffix Tree Database, is a database that constructs suffix trees on-disk for more efficient
-sequence alignment. See the report for a more detailed explanation.
+sequence alignment. See [the report](https://github.com/TheNathanSpace/mstrdb/blob/main/mstrdb.pdf) for a more detailed explanation.
 
 A sample usage can be seen in `main.py`.
